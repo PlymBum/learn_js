@@ -1,0 +1,20 @@
+@import "~normalize.css";
+@import "Ranchers-Regular.css";
+
+.container{
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+
+}
+body{
+    font-family: Ranchers-Regular, sans-serif;
+}
+.logo{
+    background-image: url("../bk.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
